@@ -4,5 +4,5 @@ TryHackMe & HTB Lab-Dokumentation
 
 ## Completed Challenges
 
-- [ ] Challenge 1
-- [ ] Challenge 2
+- [x] Challenge 1 
+- [x] Challenge 2
